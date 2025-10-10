@@ -498,6 +498,9 @@ footer {
     .about-text p {
         font-size: 1em; /* Adjust paragraph font size for mobile */
     }
+    .hero {
+        padding: 250px 0;
+    }
     
     .contact-container {
         grid-template-columns: 1fr;
@@ -566,7 +569,7 @@ footer {
         padding: 8px 15px;
     }
     .hero {
-        padding: 60px 0;
+        padding: 250px 0;
     }
     .hero-content h1 {
         font-size: 2em;
